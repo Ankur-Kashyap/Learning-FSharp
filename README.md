@@ -1,2 +1,1 @@
-# Learning-FSharp
-Learn F# - Think Functionally
+# Learn F# - Think Functionally
