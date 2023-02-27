@@ -9,6 +9,8 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Ch02-DataTypesAndSignatures
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Ch03-Tuples", "Ch03-Tuples\Ch03-Tuples.fsproj", "{C6279C2C-C3E2-49FA-A83F-EEDC8A9156C4}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Ch05-CurryingAndPartialApplication", "Ch05-CurryingAndPartialApplication\Ch05-CurryingAndPartialApplication.fsproj", "{99EB2B29-4394-475F-B150-B2FF6836EDFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C6279C2C-C3E2-49FA-A83F-EEDC8A9156C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6279C2C-C3E2-49FA-A83F-EEDC8A9156C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6279C2C-C3E2-49FA-A83F-EEDC8A9156C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99EB2B29-4394-475F-B150-B2FF6836EDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EB2B29-4394-475F-B150-B2FF6836EDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99EB2B29-4394-475F-B150-B2FF6836EDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99EB2B29-4394-475F-B150-B2FF6836EDFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
