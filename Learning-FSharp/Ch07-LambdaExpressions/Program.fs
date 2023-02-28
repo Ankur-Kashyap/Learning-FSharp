@@ -60,4 +60,17 @@ let main args =
     // calling apply2 for in-place function definition
     apply2 (fun x y -> x * y) 10 20 |> printf "%d"
 
+    // examples of closure
+
+    let val1 = 10
+    let val2 = 20
+
+    // val1, which is used in the lambda expression isn't local to the lambda expression
+    // val1 is declared in main, however, when apply1 invokes the lambda expression, val1 is available
+    // this is because val1 is supplied to the lambda expression via a closure
+    apply1 (fun x -> x * val1) 10 |> printf "%d"
+
+    // similarly, val1 and val2 are supplied to the lambda expression via a closure
+    apply2 (fun x y -> x * y * val1 * val2) 10 20 |> printf "%d"
+
     0
