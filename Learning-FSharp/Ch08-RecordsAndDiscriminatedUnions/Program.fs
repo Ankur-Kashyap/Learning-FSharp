@@ -23,10 +23,10 @@ type Employee =
       EmployeeId: string }
 
     // static member
-    static member Create(first, last, age, rollNo) =
+    static member Create(first, last, age, employeeId) =
         { Name = { First = first; Last = last }
           Age = age
-          EmployeeId = rollNo }
+          EmployeeId = employeeId }
 
     // overridden Object.ToString
     override this.ToString() =
@@ -34,11 +34,10 @@ type Employee =
 
     // Instance member
     member this.WithNameInUpperCase() =
-        { Name =
-            { First = this.Name.First.ToUpper()
-              Last = this.Name.Last.ToUpper() }
-          Age = this.Age
-          EmployeeId = this.EmployeeId }
+        { this with
+            Name =
+                { First = this.Name.First.ToUpper()
+                  Last = this.Name.Last.ToUpper() } }
 
 // Discriminated union of int and string
 type IntOrString =
@@ -62,7 +61,7 @@ type Day =
     | Wednesday
     | Thursday
     | Friday
-    | Satruday
+    | Saturday
     | Sunday
 
 // Discriminated union for payment info
@@ -126,3 +125,4 @@ let main args =
     let paymentInfo1 = BankCheque("Broke Bank", "123456", System.DateTime.Now)
 
     0
+      
