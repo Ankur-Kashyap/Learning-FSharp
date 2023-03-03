@@ -27,3 +27,5 @@ Source Repository for Series [F# - Think Functionally](https://thinkfunctionally
 [Basics 10 - Pattern Matching (Examples - Part 1)](https://thinkfunctionally.hashnode.dev/pattern-matching-examples-in-f-sharp-part-1)
 
 [Basics 11 - Generics (Basics)](https://thinkfunctionally.hashnode.dev/generics-basics-in-f-sharp)
+
+[Basic 12 - Exceptions and Pattern Matching](https://thinkfunctionally.hashnode.dev/exceptions-and-pattern-matching-in-f-sharp)
