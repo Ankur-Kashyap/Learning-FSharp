@@ -28,4 +28,4 @@ Source Repository for Series [F# - Think Functionally](https://thinkfunctionally
 
 [Basics 11 - Generics (Basics)](https://thinkfunctionally.hashnode.dev/generics-basics-in-f-sharp)
 
-[Basic 12 - Exceptions and Pattern Matching](https://thinkfunctionally.hashnode.dev/exceptions-and-pattern-matching-in-f-sharp)
+[Basics 12 - Exceptions and Pattern Matching](https://thinkfunctionally.hashnode.dev/exceptions-and-pattern-matching-in-f-sharp)
