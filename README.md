@@ -33,3 +33,5 @@ Source Repository for Series [F# - Think Functionally](https://thinkfunctionally
 [Basics 13 - Containers, Option and Result](https://thinkfunctionally.hashnode.dev/containers-option-and-result-in-f-sharp)
 
 [Basics 14 - Functional Patterns - Map and Bind](https://thinkfunctionally.hashnode.dev/functional-patterns-map-and-bind-in-f-sharp)
+
+[Basics 15 - Collections (Basics)]([https://thinkfunctionally.hashnode.dev/functional-patterns-map-and-bind-in-f-sharp](https://thinkfunctionally.hashnode.dev/collections-basics-in-f-sharp)
