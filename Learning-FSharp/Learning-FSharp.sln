@@ -21,6 +21,8 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Ch10-PatternMatchingExample
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Ch13-ContainerOptionResult", "Ch13-ContainerOptionResult\Ch13-ContainerOptionResult.fsproj", "{B99BF6E7-8519-494B-AA2A-7D4A0385C070}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Ch16-FunctionStitchingPureAndImpure", "Ch16-FunctionStitchingPureAndImpure\Ch16-FunctionStitchingPureAndImpure.fsproj", "{25C34012-CEDE-43DB-B324-3C83886EB1D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{B99BF6E7-8519-494B-AA2A-7D4A0385C070}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B99BF6E7-8519-494B-AA2A-7D4A0385C070}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B99BF6E7-8519-494B-AA2A-7D4A0385C070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25C34012-CEDE-43DB-B324-3C83886EB1D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C34012-CEDE-43DB-B324-3C83886EB1D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C34012-CEDE-43DB-B324-3C83886EB1D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C34012-CEDE-43DB-B324-3C83886EB1D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
