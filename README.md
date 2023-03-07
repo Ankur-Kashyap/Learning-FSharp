@@ -12,7 +12,7 @@ Source Repository for Series [F# - Think Functionally](https://thinkfunctionally
 
 [Basics 03 - Tuples](https://thinkfunctionally.hashnode.dev/tuples-in-f-sharp)
 
-[Basics 04 - Functions (Part 1)](https://thinkfunctionally.hashnode.dev/pure-functions-in-f-sharp)
+[Basics 04 - Functions (Part 1) - Pure Functions](https://thinkfunctionally.hashnode.dev/pure-functions-in-f-sharp)
 
 [Basics 05 - Currying and Partial Application](https://thinkfunctionally.hashnode.dev/currying-and-partial-application-in-f-sharp)
 
@@ -35,3 +35,5 @@ Source Repository for Series [F# - Think Functionally](https://thinkfunctionally
 [Basics 14 - Functional Patterns - Map and Bind](https://thinkfunctionally.hashnode.dev/functional-patterns-map-and-bind-in-f-sharp)
 
 [Basics 15 - Collections (Basics)](https://thinkfunctionally.hashnode.dev/collections-basics-in-f-sharp)
+
+[Basics 16 - Functions (Part 2) - Stitching Pure and Impure Worlds](https://thinkfunctionally.hashnode.dev/stitching-pure-and-impure-worlds-in-f-sharp)
