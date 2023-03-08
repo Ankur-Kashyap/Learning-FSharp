@@ -37,3 +37,5 @@ Source Repository for Series [F# - Think Functionally](https://thinkfunctionally
 [Basics 15 - Collections (Basics)](https://thinkfunctionally.hashnode.dev/collections-basics-in-f-sharp)
 
 [Basics 16 - Functions (Part 2) - Stitching Pure and Impure Worlds](https://thinkfunctionally.hashnode.dev/stitching-pure-and-impure-worlds-in-f-sharp)
+
+[Basics 17 - Option Pipeline with Map and Bind](https://thinkfunctionally.hashnode.dev/option-pipeline-with-map-and-bindin-f-sharp)
