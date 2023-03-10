@@ -45,3 +45,5 @@ Source Repository for Series [F# - Think Functionally](https://thinkfunctionally
 [Basics 19 - Double-Lifted Data](https://thinkfunctionally.hashnode.dev/double-lifted-data-in-f-sharp)
 
 [Basics 20 - Namespaces and Modules](https://thinkfunctionally.hashnode.dev/namespaces-and-modules-in-f-sharp)
+
+[Basics 21 - Recursive Functions](https://thinkfunctionally.hashnode.dev/recursive-functions-in-f-sharp)
