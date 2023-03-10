@@ -43,3 +43,5 @@ Source Repository for Series [F# - Think Functionally](https://thinkfunctionally
 [Basics 18 - Result Pipeline with Map and Bind](https://thinkfunctionally.hashnode.dev/result-pipeline-with-map-and-bind-in-f-sharp)
 
 [Basics 19 - Double-Lifted Data](https://thinkfunctionally.hashnode.dev/double-lifted-data-in-f-sharp)
+
+[Basics 20 - Namespaces and Modules](https://thinkfunctionally.hashnode.dev/namespaces-and-modules-in-f-sharp)
