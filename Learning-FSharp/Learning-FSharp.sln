@@ -25,7 +25,9 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Ch16-FunctionStitchingPureA
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Ch17-OptionPipeline", "Ch17-OptionPipeline\Ch17-OptionPipeline.fsproj", "{482861E5-F153-44B0-BD24-01E835A25DA4}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Ch18-ResultPipeline", "Ch18-ResultPipeline\Ch18-ResultPipeline.fsproj", "{85DA2E68-0227-49D7-B78A-7A7B07FE82ED}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Ch18-ResultPipeline", "Ch18-ResultPipeline\Ch18-ResultPipeline.fsproj", "{85DA2E68-0227-49D7-B78A-7A7B07FE82ED}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Ch23-ExtendingTypes", "Ch23-ExtendingTypes\Ch23-ExtendingTypes.fsproj", "{AA0477A8-D636-467C-9742-0822F47EB11F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{85DA2E68-0227-49D7-B78A-7A7B07FE82ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85DA2E68-0227-49D7-B78A-7A7B07FE82ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85DA2E68-0227-49D7-B78A-7A7B07FE82ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA0477A8-D636-467C-9742-0822F47EB11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA0477A8-D636-467C-9742-0822F47EB11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA0477A8-D636-467C-9742-0822F47EB11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA0477A8-D636-467C-9742-0822F47EB11F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
