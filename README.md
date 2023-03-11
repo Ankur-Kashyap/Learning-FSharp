@@ -47,3 +47,5 @@ Source Repository for Series [F# - Think Functionally](https://thinkfunctionally
 [Basics 20 - Namespaces and Modules](https://thinkfunctionally.hashnode.dev/namespaces-and-modules-in-f-sharp)
 
 [Basics 21 - Recursive Functions](https://thinkfunctionally.hashnode.dev/recursive-functions-in-f-sharp)
+
+[Basics 22 - Inline Functions](https://thinkfunctionally.hashnode.dev/inline-functions-in-f-sharp)
