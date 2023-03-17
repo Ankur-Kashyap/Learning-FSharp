@@ -50,6 +50,6 @@ Source Repository for Series [F# - Think Functionally](https://thinkfunctionally
 
 [Basics 22 - Inline Functions](https://thinkfunctionally.hashnode.dev/inline-functions-in-f-sharp)
 
-[Basics 23 - Extending Types](https://thinkfunctionally.hashnode.dev/extending-types-in-f-sharp)
+[Basics 23 - Types (Part 2) - Extending Types](https://thinkfunctionally.hashnode.dev/extending-types-in-f-sharp)
 
 [Basics 24 - Active Patterns](https://thinkfunctionally.hashnode.dev/active-patterns-in-f-sharp)
