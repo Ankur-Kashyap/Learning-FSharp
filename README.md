@@ -49,3 +49,5 @@ Source Repository for Series [F# - Think Functionally](https://thinkfunctionally
 [Basics 21 - Recursive Functions](https://thinkfunctionally.hashnode.dev/recursive-functions-in-f-sharp)
 
 [Basics 22 - Inline Functions](https://thinkfunctionally.hashnode.dev/inline-functions-in-f-sharp)
+
+[Basics 23 - Extending Types](https://thinkfunctionally.hashnode.dev/extending-types-in-f-sharp)
