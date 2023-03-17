@@ -59,12 +59,12 @@ let main args =
     let intV1: int = 2
     let intV1: int32 = 3
 
-    // Unsigned 32-bit integer. 0 to 18,446,744,073,709,551,615.
+    // Unsigned 64-bit integer. 0 to 18,446,744,073,709,551,615.
     // Postfix: uL/UL.
     let uint64V1 = 1uL
     let uint64V1: uint64 = 2uL
 
-    // Signed 32-bit integer. -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807.
+    // Signed 64-bit integer. -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807.
     // Postfix: L.
     let int64V1 = 1L
     let int64V1: int64 = 2L
