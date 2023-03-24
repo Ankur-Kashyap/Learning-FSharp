@@ -144,4 +144,42 @@ type ClassWithPropertiesWithNoBackingStore(name: string, age: int, rollNo: strin
 [<EntryPoint>]
 let main args =
 
+    // new is optional
+    let student1_1 = Student1()
+    let student1_2 = new Student1()
+
+    // Invoking difference constructors
+    let student2_1 = Student2()
+    let student2_2 = Student2("Name")
+    let student2_3 = Student2(10)
+    let student2_4 = Student2("Name", 10)
+
+    // Interface pointing to class and record
+    let iface_1: INamePlusAge = Student3("Name", 10)
+    let iface_2: INamePlusAge = { Name = "Name"; Age = 10 }
+
+    // Calling interface method
+
+    let x = iface_1.NamePlusAge()
+    let y = iface_2.NamePlusAge()
+
+    // If you need to call interface methods,
+    // can't be done directly from class or record
+
+    let student3_1 = Student3("Name", 10)
+
+    // student3_1.NamePlusAge <- will result in compile error
+
+    // Use casting operating :>
+    let namePlusAge = (student3_1 :> INamePlusAge).NamePlusAge()
+
+    // Generic class instance
+    let g_1 = MyClass<int>(10)
+    let g_2 = MyClass<string>("Ten")
+
+    // Casting to interface
+
+    let x = (g_1:>IGenericIntarfec<int>).Get()
+    let y = (g_2:>IGenericIntarfec<string>).Get()
+
     0
