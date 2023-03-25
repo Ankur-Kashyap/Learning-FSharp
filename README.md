@@ -54,6 +54,6 @@ Source Repository for Series [F# - Think Functionally](https://thinkfunctionally
 
 [Basics 24 - Active Patterns](https://thinkfunctionally.hashnode.dev/active-patterns-in-f-sharp)
 
-[Basics 24 - Classes and Interfaces](https://thinkfunctionally.hashnode.dev/classes-and-interfaces-in-f-sharp)
+[Basics 25 - Classes and Interfaces](https://thinkfunctionally.hashnode.dev/classes-and-interfaces-in-f-sharp)
 
 [Basics 26 - Computation Expressions](https://thinkfunctionally.hashnode.dev/overview-of-computation-expressions-in-f-sharp)
